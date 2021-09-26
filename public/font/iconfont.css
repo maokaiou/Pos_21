@@ -1,0 +1,34 @@
+@font-face {
+    font-family: "iconfont"; /* Project id 2834580 */
+    src: url('/iconfont.woff2?t=1632627342265') format('woff2'),
+         url('/iconfont.woff?t=1632627342265') format('woff'),
+         url('/iconfont.ttf?t=1632627342265') format('truetype');
+  }
+
+  .iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  .icon-shangpin:before {
+    content: "\e635";
+  }
+
+  .icon-31huiyuanqia:before {
+    content: "\e600";
+  }
+
+  .icon-dianpu:before {
+    content: "\e736";
+  }
+
+  .icon-settings:before {
+    content: "\e699";
+  }
+
+  .icon-phonebill:before {
+    content: "\e6e1";
+  }
