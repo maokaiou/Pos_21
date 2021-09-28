@@ -1,0 +1,29 @@
+{
+  'price':"@string('number',2)",
+  img:'@image',
+  name:'@cname'
+},{
+  'price':"@string('number',2)",
+  img:'@image',
+  name:'@cname'
+},{
+  'price':"@string('number',2)",
+  img:'@image',
+  name:'@cname'
+},{
+  'price':"@string('number',2)",
+  img:'@image',
+  name:'@cname'
+},{
+  'price':"@string('number',2)",
+  img:'@image',
+  name:'@cname'
+},{
+  'price':"@string('number',2)",
+  img:'@image',
+  name:'@cname'
+},{
+  'price':"@string('number',2)",
+  img:'@image',
+  name:'@cname'
+},
